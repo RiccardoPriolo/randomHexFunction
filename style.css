@@ -1,0 +1,60 @@
+.container {
+  max-width: 1440px;
+  margin: auto;
+  width: fit-content;
+}
+
+.col {
+  border: 1px solid;
+  height: 200px;
+}
+
+.col:nth-child(1) {
+  background-color: #BCA93A;
+}
+
+.col:nth-child(2) {
+  background-color: #7F149A;
+}
+
+.col:nth-child(3) {
+  background-color: #F9688D;
+}
+
+.col:nth-child(4) {
+  background-color: #F67E8A;
+}
+
+.col:nth-child(5) {
+  background-color: #0342A7;
+}
+
+.col:nth-child(6) {
+  background-color: #FCF012;
+}
+
+.col:nth-child(7) {
+  background-color: #F46D7F;
+}
+
+.col:nth-child(8) {
+  background-color: #A381F8;
+}
+
+.col:nth-child(9) {
+  background-color: #FA5251;
+}
+
+.col:nth-child(10) {
+  background-color: #F8EE00;
+}
+
+.col:nth-child(11) {
+  background-color: #BF0912;
+}
+
+.col:nth-child(12) {
+  background-color: #72E47D;
+}
+
+/*# sourceMappingURL=style.css.map */
